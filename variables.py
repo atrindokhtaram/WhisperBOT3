@@ -1,16 +1,16 @@
-BOT_TOKEN = " "
+BOT_TOKEN = "7812155764:AAF49wqPvcYt0ctDvzk2elSVaxF0nw-rRBw"
 
 # EXAMPLE: BOT_TOKEN = "5953961340:AAFiBeDXt7Yb10ShbV2O5z2oCzVTgjEK43g"
 
-START_PIC = " "
+START_PIC = "https://imgur.com/e0kgkNe"
 
 # ENTER LINK OF PIC !
 
 # FOR GETTING LINK, GO TO @Spl_Levi_Ackerman_Bot, SEND PIC AND REPLY /telegraph
 
-SUPPORT_CHAT = " "
+SUPPORT_CHAT = "@Atrin_music_tm1"
 
 # ENTER USERNAME OF SUPPORT GROUP OR CHANNEL WITHOUT @
 
-if SUPPORT_CHAT[0] == "@":
+if SUPPORT_CHAT[0] == "@atrin_music_tm1":
     SUPPORT_CHAT = SUPPORT_CHAT[1:]
